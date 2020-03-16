@@ -7,3 +7,7 @@ Repository for the Big-Scale Analytics course - spring 2020
 - Week 4: SQL on the Cloud (BigQuery)
 - Week 5: Data Cleaning and Prep (Azure ML)
 - Week 6: Entity Resolution
+- Week 7: Elasticsearch 1
+- Week 8: Elasticsearch 2
+
+
